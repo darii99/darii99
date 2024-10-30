@@ -1,2 +1,2 @@
--  Hello!👋
+-  Hello!👋  
 My name is Darina and I’m a third-year M.Sc. student in Computer Engineering at Jönköping University, specializing in AI. I have experience in a variety of programming languages, including C, C#, Haskell, and MicroPython, and hands-on skills with hardware like Raspberry Pi Pico W, NUCLEO STM32F401RE, FPGA, and Jetson Nano. My interests lie in programming with MCUs, cybersecurity, and AI development, where I'm continually expanding my knowledge and skills.
