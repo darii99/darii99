@@ -2,10 +2,7 @@
 My name is **Darina** and I’m a third-year M.Sc. student in Computer Engineering at Jönköping University, specializing in AI. My interests lie in embedded electronics, cybersecurity, and AI development, where I'm continually expanding my knowledge and skills.<br><br>
 
 <details>
-  <summary>Skills</summary>
-  
-  **Here is the content inside the dropdown.**  
-  You can include text, images, lists, code blocks, etc.
+  <summary>Skills</summary
 
   - MicroPython
   - C, C#
@@ -19,9 +16,6 @@ My name is **Darina** and I’m a third-year M.Sc. student in Computer Engineeri
 <details>
   <summary>Tools</summary>
   
-  **Here is the content inside the dropdown.**  
-  You can include text, images, lists, code blocks, etc.
-
   - Visual Studio Code
   - Visual Studio
   - Jetson Nano NVIDIA
