@@ -21,6 +21,7 @@ My name is **Darina** and I’m a third-year M.Sc. student in Computer Engineeri
   - Jetson Nano NVIDIA
   - STM32CubeIDE
   - Thonny IDE
+  - Arduino IDE
 </details>
 
 
