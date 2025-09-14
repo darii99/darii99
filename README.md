@@ -2,8 +2,8 @@
 My name is **Darina** and I’m a fourth-year M.Sc. student in Computer Engineering at Jönköping University, specializing in AI. My interests lie in embedded electronics, cybersecurity, and AI development, where I'm continually expanding my knowledge and skills.<br><br>
 
 <details>
-  <summary>Skills</summary
-
+  <summary>Skills</summary>
+                   
   - MicroPython
   - C-languages (C, C#, C++)
   - Embedded Electronics (Raspberry Pico Pi, NUCLEO STM32, FPGA)
