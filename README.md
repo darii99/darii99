@@ -4,7 +4,7 @@ My name is **Darina** and I’m a fourth-year M.Sc. student in Computer Engineer
 <details>
   <summary>Skills</summary>
                    
-  - MicroPython
+  - Python, MicroPython, CircuitPython
   - C-languages (C, C#, C++)
   - Embedded Electronics (Raspberry Pico Pi, NUCLEO STM32, FPGA)
   - HTML, CSS
@@ -22,6 +22,7 @@ My name is **Darina** and I’m a fourth-year M.Sc. student in Computer Engineer
   - STM32CubeIDE
   - Thonny IDE
   - Arduino IDE
+  - Jupyter Notebook
 </details>
 
 
